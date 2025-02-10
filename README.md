@@ -1,4 +1,4 @@
-# Data Science Capstone & Ethics (ENGI E4800)
+# Generative Decoders of Visual Cortical Representations
 
 ## Course overview
 
@@ -6,14 +6,11 @@ This course provides a unique opportunity for students in the MS in Data Science
 
 ## Team Structure
 
-Select a team captain (with or without help from mentor/instructor/supervisor)
+Team Captain: Michael Zhou, mgz2112
 
-Record your names here in this format-
-1. Team captain name, UNI
-2. Member name, UNI
-3. Member name, UNI
-
-and so on.   
+1. Michael Zhou, mgz2112
+2. Qingwen Liu, ql2549
+3. Yueran Wang, yw4441
 
 ## Instructions
 
